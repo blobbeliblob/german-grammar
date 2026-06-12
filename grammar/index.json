@@ -1,0 +1,9 @@
+[
+  { "id": "adjectives", "title": "Adjectives", "file": "adjectives.md" },
+  { "id": "articles", "title": "Articles", "file": "articles.md" },
+  { "id": "modalverben", "title": "Modal Verbs", "file": "modalverbs.md" },
+  { "id": "plural", "title": "Plural", "file": "plural.md" },
+  { "id": "prepositions", "title": "Prepositions", "file": "prepositions.md" },
+  { "id": "pronouns", "title": "Pronouns", "file": "pronouns.md" },
+  { "id": "verben", "title": "Verbs and Tenses", "file": "verbs.md" }
+]
