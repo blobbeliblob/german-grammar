@@ -207,3 +207,118 @@ Identical to the **wir** present-tense form, with **wir** placed after the verb.
 | **ihr** | stem + t | **Lernt!**, **Kommt!** |
 | **Sie** | stem + en + Sie | **Lernen Sie!**, **Kommen Sie!** |
 | **wir** | verb + wir | **Gehen wir!** |
+
+## Passiv
+
+### Vorgangspassiv (action passive)
+
+Formed with **werden** (conjugated) + **Partizip II**. Describes the action or process happening to a subject.
+
+| Tense | Structure | Example (öffnen) |
+|---|---|---|
+| Präsens | wird + Partizip II | **Die Tür wird geöffnet.** |
+| Präteritum | wurde + Partizip II | **Die Tür wurde geöffnet.** |
+| Perfekt | ist + Partizip II + worden | **Die Tür ist geöffnet worden.** |
+| Futur I | wird + Partizip II + werden | **Die Tür wird geöffnet werden.** |
+
+The agent can be introduced with **von** + dative, but German often omits it entirely.
+
+- **Das Buch wurde von einem Studenten geschrieben.**
+- **Das Buch wurde geschrieben.**
+
+In subordinate clauses, the finite verb moves to the end.
+
+- **..., weil die Tür geöffnet wird.**
+- **..., weil die Tür geöffnet worden ist.**
+
+### Zustandspassiv (state passive)
+
+Formed with **sein** (conjugated) + **Partizip II**. Describes a resulting state, not the action itself.
+
+| Tense | Structure | Example (öffnen) |
+|---|---|---|
+| Präsens | ist + Partizip II | **Die Tür ist geöffnet.** |
+| Präteritum | war + Partizip II | **Die Tür war geöffnet.** |
+| Perfekt | ist + Partizip II + gewesen | **Die Tür ist geöffnet gewesen.** |
+
+- **Das Fenster ist geschlossen.** (The window is closed — state)
+- **Das Fenster wurde geschlossen.** (The window was closed — action)
+
+### Verbs that cannot form the passive
+
+Intransitive verbs without an accusative object cannot form the Vorgangspassiv.
+
+- ~~**Es wird geschlafen.**~~ → **Man schläft hier.**
+
+## Konjunktiv II
+
+Used for polite requests, hypothetical statements, wishes, and counterfactual conditions.
+
+### Endings
+
+| Person | Ending | Example (käme) |
+|---|---|---|
+| ich | -e | **ich käme** |
+| du | -est | **du kämest** |
+| er / sie / es | -e | **er käme** |
+| wir | -en | **wir kämen** |
+| ihr | -et | **ihr kämet** |
+| sie / Sie | -en | **sie kämen** |
+
+### Regular (weak) verbs
+
+Weak verbs use **würde** + infinitive because their Konjunktiv II form is identical to Präteritum.
+
+- **Ich würde das machen.** (I would do that.)
+- **Sie würde es lernen.** (She would learn it.)
+
+### Irregular (strong) verbs
+
+Strong verbs form Konjunktiv II by changing the stem vowel (umlaut where possible) and adding the endings above.
+
+| Infinitive | Präteritum stem | Konjunktiv II stem | Example |
+|---|---|---|---|
+| kommen | kam | käme | **Ich käme gern mit.** |
+| gehen | ging | ginge | **Er ginge dann nach Hause.** |
+| fahren | fuhr | führe | **Wir führe schneller.** |
+| sehen | sah | sähe | **Sie sähe das Problem.** |
+
+### Common irregular Konjunktiv II forms
+
+Many of these replace the **würde** construction in practice.
+
+| Infinitive | Konjunktiv II |
+|---|---|
+| sein | **wäre** |
+| haben | **hätte** |
+| werden | **würde** |
+| können | **könnte** |
+| müssen | **müsste** |
+| dürfen | **dürfte** |
+| sollen | **sollte** |
+| wollen | **wollte** |
+| wissen | **wüsste** |
+| geben | **gäbe** |
+| kommen | **käme** |
+| tun | **täte** |
+
+### Uses
+
+#### Polite requests and statements
+
+- **Könnten Sie mir bitte helfen?** (Could you please help me?)
+- **Ich hätte gern eine Frage.** (I would like to ask a question.)
+
+#### Hypothetical conditions (irreale Bedingungssätze)
+
+Uses **wenn** or omits **wenn** with verb-first.
+
+- **Wenn ich Zeit hätte, würde ich Deutsch lernen.**
+- **Hätte ich Zeit, lernte ich Deutsch.** (inverted without wenn)
+
+#### Wishes
+
+Often introduced with **Wenn ... doch nur** or expressed alone.
+
+- **Wenn ich doch nur reicher wäre!**
+- **Wäre ich doch nur reicher!**

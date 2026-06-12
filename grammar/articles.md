@@ -78,13 +78,11 @@ No rule is 100% reliable, but these patterns are helpful.
 
 ### Variable with -e
 
-Many nouns ending in **-e** are feminine, but there are important exceptions, especially masculine ones denating people or agents.
+Many nouns ending in **-e** are feminine, but there are important exceptions, especially masculine ones denoting people or agents.
 
 - **der Name, der Gedanke, der Junge**
 - **der Löwe, der Affe**
 
 ## Notes
 
-- Always learn a noun with its article: **der Tisch**, not just **Tisch**.
-- Articles change form (decline) depending on the grammatical case.
 - Compound nouns take the gender of the last element: **die Kühlschranktür** (die Tür).
