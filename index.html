@@ -3,31 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>German Grammar</title>
+    <title>German</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>German Grammar</h1>
-            <p class="subtitle">Reference guide for German grammar rules</p>
+            <h1>German</h1>
+            <p class="subtitle">Learn and practice German grammar, verbs & nouns</p>
         </header>
 
         <main>
-            <nav id="grammar-menu"></nav>
-            <article id="grammar-content">
-                <div class="grammar-welcome">
-                    <h2>Select a topic</h2>
-                    <p>Choose a grammar topic from the menu to get started.</p>
-                </div>
-            </article>
+            <section class="card">
+                <h2>What do you want to practice?</h2>
+                <nav class="mode-buttons">
+                    <a class="mode-btn" href="grammar/">
+                        <span class="mode-icon"><img src="icons/looking_glass.png" alt=""></span>
+                        <span class="mode-title">Grammar</span>
+                        <span class="mode-desc">Reference guide for German grammar rules</span>
+                    </a>
+                    <a class="mode-btn" href="verbs/">
+                        <span class="mode-icon"><img src="icons/pen.png" alt=""></span>
+                        <span class="mode-title">Verbs</span>
+                        <span class="mode-desc">Conjugations, meanings and cases of German verbs</span>
+                    </a>
+                    <a class="mode-btn" href="nouns/">
+                        <span class="mode-icon"><img src="icons/language.png" alt=""></span>
+                        <span class="mode-title">Nouns</span>
+                        <span class="mode-desc">Articles, plurals and meanings of German nouns</span>
+                    </a>
+                </nav>
+            </section>
         </main>
 
         <footer>
@@ -40,6 +52,8 @@
         </footer>
     </div>
 
-    <script src="script.js"></script>
+    <script>
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>

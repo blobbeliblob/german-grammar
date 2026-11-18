@@ -2,7 +2,7 @@ let grammarEntries = [];
 
 async function init() {
     try {
-        const response = await fetch('grammar/index.json');
+        const response = await fetch('index.json');
         if (!response.ok) throw new Error('Failed to load grammar index');
         grammarEntries = await response.json();
     } catch (error) {
@@ -52,7 +52,7 @@ async function navigateTo(id) {
     const content = document.getElementById('grammar-content');
 
     try {
-        const response = await fetch(`grammar/${entry.file}`);
+        const response = await fetch(entry.file);
         if (!response.ok) throw new Error(`Failed to load ${entry.file}`);
         const markdown = await response.text();
         const html = marked.parse(markdown);
